@@ -1,1 +1,2 @@
-# sip_ecell
+# ecell
+Website for Entrepreneurship Cell, IIT Kanpur
